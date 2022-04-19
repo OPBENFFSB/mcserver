@@ -14,7 +14,7 @@ In this project, we'll teach you host your very own Java/Bedrock Minecraft Serve
 ## Need help?
 > [**Submit any Issues here**](https://github.com/lordofwizard/mcserver/issues)
 
-> [**Join the Discord Server**](https://discord.gg/V2R26jBEzN)
+> [**Join the Discord Server**](https://discord.gg/WMPBArvd89)
 ### To do list
 - [x] Asking the user for the specific version they want to run of java.
 - [x] Add 3rd party sources in the list.
