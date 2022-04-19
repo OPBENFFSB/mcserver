@@ -7,12 +7,12 @@ In this project, we'll teach you host your very own Java/Bedrock Minecraft Serve
 - Clean & Friendly Interface
 - Supports Additional type of Java Server *(eg. Sponge, Paper, Fabric etc)*
 - Added Server Management
-- Easier functional scripts *(eg. [**./uninstall**](https://github.com/lordofwizard/mcserver/blob/main/README.md#uninstallremove-the-server) allows you to delete your server easily)*
+- Easier functional scripts *(eg. [**./uninstall**] allows you to delete your server easily)*
 - Instant EULA script setup *(Completly skipping this part which makes other people's life much easier to manage)*
 - Faster Server Installation *(It would probably take you like approx 30 seconds to setup a server)*
 
 ## Need help?
-> [**Submit any Issues here**](https://github.com/lordofwizard/mcserver/issues)
+> [**Submit any Issues here**](https://github.com/OPBENFFSB/mcserver/issues)
 
 > [**Join the Discord Server**](https://discord.gg/WMPBArvd89)
 ### To do list
