@@ -12,10 +12,6 @@ In this project, we'll teach you host your very own Java/Bedrock Minecraft Serve
 - Faster Server Installation *(It would probably take you like approx 30 seconds to setup a server)*
 
 ## Need help?
-> [**Watch this Tutorial with LordOfWizard**](https://youtu.be/2CdQUmNKRJI) `Latest`
-
-> [**Watch this Tutorial with ArcticWoof**](https://youtu.be/0j0ijkwddz8) `Outdated`
-
 > [**Submit any Issues here**](https://github.com/lordofwizard/mcserver/issues)
 
 > [**Join the Discord Server**](https://discord.gg/V2R26jBEzN)
